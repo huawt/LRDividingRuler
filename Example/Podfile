@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'LRDividingRuler_Example' do
+  pod 'LRDividingRuler', :path => '../'
+
+  target 'LRDividingRuler_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
