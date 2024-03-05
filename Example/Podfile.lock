@@ -1,0 +1,16 @@
+PODS:
+  - LRDividingRuler (0.1.0)
+
+DEPENDENCIES:
+  - LRDividingRuler (from `../`)
+
+EXTERNAL SOURCES:
+  LRDividingRuler:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LRDividingRuler: 288798310e280417d7aa0df8db77a5ebca0c5ad3
+
+PODFILE CHECKSUM: 544c10e187fedd2f70e72491d007619b73bda1d7
+
+COCOAPODS: 1.15.2

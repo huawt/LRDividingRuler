@@ -1,0 +1,6 @@
+framework module Pods_LRDividingRuler_Example {
+  umbrella header "Pods-LRDividingRuler_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

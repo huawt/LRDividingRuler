@@ -1,0 +1,6 @@
+framework module LRDividingRuler {
+  umbrella header "LRDividingRuler-umbrella.h"
+
+  export *
+  module * { export * }
+}
